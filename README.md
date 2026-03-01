@@ -104,3 +104,30 @@ A professional version designed for healthcare environments, potentially includi
 ## License
 
 This project is currently a conceptual proposal intended for research and development purposes.
+---
+
+## 🚀 Atualização – Versão 1.1 (Fevereiro 2026)
+
+O projeto evoluiu de um protótipo inicial para um sistema funcional completo.
+
+### ✅ O que foi implementado:
+
+- Suporte a múltiplos medicamentos no mesmo tratamento  
+- Geração automática de doses com base em intervalo e duração  
+- Organização cronológica das medicações  
+- Confirmação de próxima dose via ENTER  
+- Barras de progresso individuais por medicamento  
+- Barra de progresso geral do tratamento  
+- Salvamento automático em arquivo JSON  
+- Continuação do tratamento após reabrir o programa  
+- Geração de executável (.exe) com PyInstaller  
+
+### 📦 Status Atual
+
+🟢 Sistema funcional  
+🟢 Executável gerado e testado  
+🟡 Melhorias visuais em desenvolvimento (Versão 1.2)
+
+---
+
+Projeto em evolução contínua 🚀
